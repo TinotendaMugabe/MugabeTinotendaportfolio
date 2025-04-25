@@ -1,0 +1,30 @@
+<svg width="600" height="300" viewBox="0 0 600 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="300" fill="#f0fdfa"/>
+  
+  <!-- App background -->
+  <rect x="150" y="50" width="300" height="200" rx="10" fill="white" stroke="#14b8a6" stroke-width="2"/>
+  
+  <!-- App header -->
+  <rect x="150" y="50" width="300" height="40" rx="10" fill="#14b8a6"/>
+  <text x="300" y="75" font-family="Arial" font-size="16" fill="white" text-anchor="middle" font-weight="bold">Currency Converter</text>
+  
+  <!-- From currency -->
+  <rect x="170" y="110" width="120" height="40" rx="5" fill="#f0fdfa" stroke="#14b8a6" stroke-width="1"/>
+  <text x="230" y="135" font-family="Arial" font-size="14" fill="#0f766e" text-anchor="middle">USD</text>
+  
+  <!-- To currency -->
+  <rect x="310" y="110" width="120" height="40" rx="5" fill="#f0fdfa" stroke="#14b8a6" stroke-width="1"/>
+  <text x="370" y="135" font-family="Arial" font-size="14" fill="#0f766e" text-anchor="middle">EUR</text>
+  
+  <!-- Exchange icon -->
+  <circle cx="300" cy="130" r="15" fill="#14b8a6"/>
+  <path d="M290 130 L310 130 M310 130 L305 125 M310 130 L305 135" stroke="white" stroke-width="2"/>
+  
+  <!-- Amount input -->
+  <rect x="170" y="170" width="260" height="40" rx="5" fill="#f0fdfa" stroke="#14b8a6" stroke-width="1"/>
+  <text x="190" y="195" font-family="Arial" font-size="14" fill="#0f766e">100.00</text>
+  
+  <!-- Convert button -->
+  <rect x="230" y="230" width="140" height="40" rx="20" fill="#14b8a6"/>
+  <text x="300" y="255" font-family="Arial" font-size="14" fill="white" text-anchor="middle" font-weight="bold">Convert</text>
+</svg>

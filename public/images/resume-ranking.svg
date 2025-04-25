@@ -1,0 +1,29 @@
+<svg width="600" height="300" viewBox="0 0 600 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="600" height="300" fill="#f0fdfa"/>
+  <rect x="50" y="50" width="200" height="200" rx="10" fill="#14b8a6" opacity="0.2"/>
+  <rect x="350" y="50" width="200" height="200" rx="10" fill="#14b8a6" opacity="0.2"/>
+  
+  <!-- Document icons -->
+  <rect x="80" y="80" width="140" height="160" rx="5" fill="white" stroke="#14b8a6" stroke-width="2"/>
+  <line x1="100" y1="110" x2="200" y2="110" stroke="#14b8a6" stroke-width="2"/>
+  <line x1="100" y1="130" x2="200" y2="130" stroke="#14b8a6" stroke-width="2"/>
+  <line x1="100" y1="150" x2="180" y2="150" stroke="#14b8a6" stroke-width="2"/>
+  <line x1="100" y1="170" x2="200" y2="170" stroke="#14b8a6" stroke-width="2"/>
+  <line x1="100" y1="190" x2="160" y2="190" stroke="#14b8a6" stroke-width="2"/>
+  
+  <!-- Job description -->
+  <rect x="380" y="80" width="140" height="160" rx="5" fill="white" stroke="#14b8a6" stroke-width="2"/>
+  <line x1="400" y1="110" x2="500" y2="110" stroke="#14b8a6" stroke-width="2"/>
+  <line x1="400" y1="130" x2="500" y2="130" stroke="#14b8a6" stroke-width="2"/>
+  <line x1="400" y1="150" x2="480" y2="150" stroke="#14b8a6" stroke-width="2"/>
+  <line x1="400" y1="170" x2="500" y2="170" stroke="#14b8a6" stroke-width="2"/>
+  <line x1="400" y1="190" x2="460" y2="190" stroke="#14b8a6" stroke-width="2"/>
+  
+  <!-- Connection lines -->
+  <path d="M250 140 C290 140, 310 140, 350 140" stroke="#14b8a6" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M250 160 C290 160, 310 160, 350 160" stroke="#14b8a6" stroke-width="2" stroke-dasharray="5 5"/>
+  <path d="M250 180 C290 180, 310 180, 350 180" stroke="#14b8a6" stroke-width="2" stroke-dasharray="5 5"/>
+  
+  <!-- Title -->
+  <text x="300" y="40" font-family="Arial" font-size="16" fill="#0f766e" text-anchor="middle" font-weight="bold">NLP-Powered Resume Ranking System</text>
+</svg>

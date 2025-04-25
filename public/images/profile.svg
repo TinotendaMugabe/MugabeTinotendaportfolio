@@ -1,0 +1,20 @@
+<svg width="400" height="400" viewBox="0 0 400 400" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="200" cy="200" r="200" fill="#f0fdfa"/>
+  
+  <!-- Background elements -->
+  <circle cx="120" cy="100" r="50" fill="#14b8a6" opacity="0.1"/>
+  <circle cx="300" cy="320" r="70" fill="#14b8a6" opacity="0.1"/>
+  <circle cx="250" cy="80" r="30" fill="#14b8a6" opacity="0.1"/>
+  
+  <!-- Stylized person silhouette -->
+  <circle cx="200" cy="150" r="70" fill="#0f766e"/>
+  <path d="M110 320 C110 250, 290 250, 290 320" fill="#0f766e"/>
+  
+  <!-- Glasses -->
+  <circle cx="170" cy="140" r="20" stroke="#f0fdfa" stroke-width="3" fill="none"/>
+  <circle cx="230" cy="140" r="20" stroke="#f0fdfa" stroke-width="3" fill="none"/>
+  <line x1="190" y1="140" x2="210" y2="140" stroke="#f0fdfa" stroke-width="3"/>
+  
+  <!-- Decorative elements -->
+  <circle cx="200" cy="200" r="180" stroke="#14b8a6" stroke-width="4" stroke-dasharray="10 5" fill="none"/>
+</svg>
